@@ -15,7 +15,7 @@ token_bot = <token del bot>
 
 offre il codice base per creare il bot, mandando lo script in esecuzione.
 
-aprendo un canale diretto col bot, e usando il comando: 
+aprendo in discord un canale diretto col bot, e usando il comando: 
 ```
 !send_dm <username> <messaggio>
 ```

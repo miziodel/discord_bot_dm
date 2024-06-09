@@ -2,7 +2,7 @@
 
 ## setup in discord
 
-- creare application e bot nel server impostati come serve, con gli intent e i permessi adeguati a permettere al bot di lavorare con gli utenti e di inviare messaggi
+- creare application e bot nel server impostati come serve (chiedi a un gemini qualsiasi :)), con gli intent e i permessi adeguati a permettere al bot di lavorare con gli utenti e di inviare messaggi
 
 ## secret.py
 

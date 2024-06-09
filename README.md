@@ -11,7 +11,7 @@ creare un file secret.py e infilarci dentro:
 token_bot = <token del bot>
 ```
 
-## discord_bot
+## discord_bot.py
 
 offre il codice base per creare il bot, mandando lo script in esecuzione.
 
